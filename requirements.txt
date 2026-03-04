@@ -1,0 +1,10 @@
+External Libaries:
+
+streamlit
+pandas
+matplotlib
+
+Built-in Libraries:
+
+sqlite3
+datetime
